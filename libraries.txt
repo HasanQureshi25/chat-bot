@@ -1,0 +1,3 @@
+pip install chatterbot chatterbot_corpus
+pip install pyyaml
+python -m spacy download en_core_web_sm
